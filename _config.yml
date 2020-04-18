@@ -3,7 +3,7 @@ baseurl: ""
 url: "https://archxl.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Research on Urban China 2.0                                     # site's title
+title: ArchXL                                     # site's title
 description: "Future Chinese Urbanization Trends"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
